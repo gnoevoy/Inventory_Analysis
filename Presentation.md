@@ -3,12 +3,14 @@
 
 <br>
 
-### Product Performance
+### Products Performance
 This report page provides a comprehensive view of individual product performance. It shows a key metrics such as: turnover rate, total units sold, financial metrics. Gain valuable insights into how each product is contributing to business success.
 ![Products](https://github.com/gnoevoy/Inventory_Management_Analysis/assets/43414592/d232c5d4-6a74-4e59-ac0e-d542511754dc)
 
 <br>
 
+Categories Performance
+This report page presents a visual analysis of the monthly performance trends for different product categories with key metrics. You can filter the data by ABC classification to focus on specific categories of interest.
 ![Categories](https://github.com/gnoevoy/Inventory_Management_Analysis/assets/43414592/eaef083c-1334-4423-843b-cf6ad4244f3a)
 
 <br>
