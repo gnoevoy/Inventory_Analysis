@@ -4,7 +4,7 @@
 <br>
 
 ### Product Performance
-This dashboard provides a comprehensive view of individual product performance. It shows a key metrics as: turnover rate, total units sold, financial metrics. Gain valuable insights into how each product is contributing to your business's success.
+This report page provides a comprehensive view of individual product performance. It shows a key metrics such as: turnover rate, total units sold, financial metrics. Gain valuable insights into how each product is contributing to your business's success.
 ![Products](https://github.com/gnoevoy/Inventory_Management_Analysis/assets/43414592/d232c5d4-6a74-4e59-ac0e-d542511754dc)
 
 <br>
