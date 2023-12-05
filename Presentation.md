@@ -29,9 +29,5 @@ This report page provides a comprehensive overview of the year's performance, al
 </br>
 
 ### Navigation links
-- [Customers and Products Analysis](https://github.com/gnoevoy/Ecommerce_and_Web_Analytics/blob/main/Assignments%20/Customers_and_products.md)
-- [README.md](https://github.com/gnoevoy/Ecommerce_and_Web_Analytics/blob/main/README.md)
-
-
-
-
+- [Jupyter Notebook File](https://github.com/gnoevoy/Inventory_Management_Analysis/blob/main/inventory_analysis.ipynb)
+- [README.md](https://github.com/gnoevoy/Inventory_Management_Analysis/blob/main/README.md)
