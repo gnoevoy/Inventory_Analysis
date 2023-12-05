@@ -9,7 +9,7 @@ This report page provides a comprehensive view of individual product performance
 
 <br>
 
-Categories Performance
+### Categories Performance
 This report page presents a visual analysis of the monthly performance trends for different product categories with key metrics. You can filter the data by ABC classification to focus on specific categories of interest.
 ![Categories](https://github.com/gnoevoy/Inventory_Management_Analysis/assets/43414592/eaef083c-1334-4423-843b-cf6ad4244f3a)
 
