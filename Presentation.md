@@ -1,7 +1,5 @@
 # Power BI Presentation
 
-<br>
-
 ## Product Performance
 This report page provides a comprehensive view of individual product performance. It shows a key metrics such as: turnover rate, total units sold, financial metrics. Gain valuable insights into how each product is contributing to business success.
 
@@ -27,4 +25,13 @@ This report page provides an in-depth examination of each country's performance 
 This report page provides a comprehensive overview of the year's performance, allowing to compare it with the previous year.
 
 ![Years](https://github.com/gnoevoy/Inventory_Management_Analysis/assets/43414592/7478ff0a-1ec7-4090-878c-8179139a25fc)
+
+</br>
+
+### Navigation links
+- [Customers and Products Analysis](https://github.com/gnoevoy/Ecommerce_and_Web_Analytics/blob/main/Assignments%20/Customers_and_products.md)
+- [README.md](https://github.com/gnoevoy/Ecommerce_and_Web_Analytics/blob/main/README.md)
+
+
+
 
