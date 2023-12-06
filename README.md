@@ -24,7 +24,9 @@ The goal is to provide clear insights for improving inventory management through
 
 ![dataset_img](https://github.com/gnoevoy/Inventory_Analysis/assets/43414592/b955cd74-dc8d-4618-8dfd-9b4f2612f9bb)
 
+### Table's descriptions
 - **Stock Table:** Contains information about items in stock, including SKU IDs, descriptions, and quantities sold in 2020, as well as the starting stock for 2021.
+
 - **Order Table:** Records details of customer orders, including invoice numbers, item SKUs, dates of purchase, quantities sold, and customer country information.
 - **Price Table:** Lists the retail prices for each item, identified by their unique IDs.
 - **Costs Table:** A detailed table focusing on the cost structure of items, including the cost of raw materials, labor, equipment rent, distribution, and advertisement costs.
