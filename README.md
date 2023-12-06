@@ -15,8 +15,8 @@ The goal is to provide clear insights for improving inventory management through
 
 <br>
 
-### [Power BI Presentation](https://github.com/gnoevoy/Inventory_Analysis/blob/main/Presentation.md)
-### [Jupyter Notebook](https://github.com/gnoevoy/Inventory_Analysis/blob/main/inventory_analysis.ipynb)
+# [Power BI Presentation](https://github.com/gnoevoy/Inventory_Analysis/blob/main/Presentation.md)
+# [Jupyter Notebook](https://github.com/gnoevoy/Inventory_Analysis/blob/main/inventory_analysis.ipynb)
 
 <br>
 
