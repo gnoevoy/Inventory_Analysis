@@ -1,5 +1,6 @@
 # Power BI Presentation
 This presentation is designed to contribute to business decisions by providing a comprehensive view of various metrics.
+For a better experience, you can download Power BI file to leverage its interactivity capabilities and explore the data independently.
 
 <br>
 
