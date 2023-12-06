@@ -5,6 +5,6 @@ of type and scrambled it to make a type specimen book. It has survived not only 
 
 <br>
 
-## [Power BI Presentation](https://github.com/gnoevoy/Inventory_Analysis/blob/main/Presentation.md)
-## [Jupyter Notebook](https://github.com/gnoevoy/Inventory_Analysis/blob/main/inventory_analysis.ipynb)
+- [Power BI Presentation](https://github.com/gnoevoy/Inventory_Analysis/blob/main/Presentation.md)
+- [Jupyter Notebook](https://github.com/gnoevoy/Inventory_Analysis/blob/main/inventory_analysis.ipynb)
 
