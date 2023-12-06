@@ -24,14 +24,8 @@ The goal is to provide clear insights for improving inventory management through
 
 </br>
 
-## Additional Info and Links
-
-### Data Sources
+## Additional Links
 - [Dataset](https://github.com/gnoevoy/Ecommerce_and_Web_Analytics/blob/main/FuzzyFactory_dataset.zip)
 - [Power BI file](https://github.com/gnoevoy/Ecommerce_and_Web_Analytics/blob/main/Power_BI_reports.zip)
 - [Jupyter Notebook file]()
 - [Project Repository](https://github.com/gnoevoy/Ecommerce_and_Web_Analytics)
-
-### Contacts
-- gnoevoyandrey044@gmail.com
-- [github](https://github.com/gnoevoy)
