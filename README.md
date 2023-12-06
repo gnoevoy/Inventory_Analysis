@@ -18,8 +18,17 @@ The goal is to provide clear insights for improving inventory management through
 ### [Power BI Presentation](https://github.com/gnoevoy/Inventory_Analysis/blob/main/Presentation.md)
 ### [Jupyter Notebook](https://github.com/gnoevoy/Inventory_Analysis/blob/main/inventory_analysis.ipynb)
 
+<br>
 
+## Dataset Overview
 
+#### Stock Table
+| Column | Description |
+| --- | --- |
+| `SKU-ID` | Item's identity code, also known as stock keeping unit (SKU) or simply ID |
+| `Description` | The attributed common name of an item |
+| `2020_units_sold` | Total amount of units sold in 2020 |
+| `2021_start_stock` | Amount of units in stock at the beginning of 2021 |
 
 
 </br>
