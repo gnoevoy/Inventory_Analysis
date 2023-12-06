@@ -24,7 +24,7 @@ The goal is to provide clear insights for improving inventory management through
 
 #### Stock Table
 | Column | Description |
-| --- | --- |
+| :--- | :--- |
 | `SKU-ID` | Item's identity code, also known as stock keeping unit (SKU) or simply ID |
 | `Description` | The attributed common name of an item |
 | `2020_units_sold` | Total amount of units sold in 2020 |
