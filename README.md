@@ -30,6 +30,44 @@ The goal is to provide clear insights for improving inventory management through
 | `2020_units_sold` | Total amount of units sold in 2020 |
 | `2021_start_stock` | Amount of units in stock at the beginning of 2021 |
 
+#### Order Table
+| Column | Description |
+| :--- | :--- |
+| `InvoiceNo` | Unique code referring to a transaction for one or multiple items |
+| `SKU` | Item's identity code |
+| `InvoiceDate` | Date of purchase for a particular item in an order |
+| `Quantity` | Amount of units sold for a particular item in an order |
+| `Country` | Code indicating the customer ID and the country of origin for the customer |
+
+#### Price Table
+| Column | Description |
+| :--- | :--- |
+| `ID` | Item's identity code |
+| `Retail_Price` | Item's value at sale point |
+
+#### Costs Table
+| Column | Description |
+| :--- | :--- |
+| `SKU-ID` | Item's identity code |
+| `Description` | The attributed common name of an item |
+| `2020_units_sold` | Total amount of units sold in 2020 |
+| `2021_start_stock` | Amount of units in stock at the beginning of 2021 |
+
+#### Stock Table
+| Column | Description |
+| :--- | :--- |
+| `SKU` | Item's identity code |
+| `raw_material` | Item's cost attributed to raw materials used in manufacturing process |
+| `factory_labor` | Item's cost attributed to manufacturing human resource |
+| `factory_equipment_rent` |Item's cost allocated to the rent of equipment for manufacturing of goods |
+| `distribution` | Item's cost associated with the delivery of goods to the buyer |
+| `advertisement` | Item's cost of marketing for a particular item |
+
+#### Stock Table
+| Column | Description |
+| :--- | :--- |
+| `ID` | Item's identity code |
+| `category` | Item's class assigned to the item |
 
 </br>
 
