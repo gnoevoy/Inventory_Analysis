@@ -1,6 +1,6 @@
 # Power BI Presentation
 This presentation is designed to contribute to business decisions by providing a comprehensive view of various metrics.
-For a better experience, you can download [Power BI](https://github.com/gnoevoy/Inventory_Analysis/blob/main/inventory_analysis.pbix) file to leverage its interactivity capabilities and explore the data independently.
+For a better experience, you can download [Power BI file](https://github.com/gnoevoy/Inventory_Analysis/blob/main/inventory_analysis.pbix) to leverage its interactivity capabilities and explore the data independently.
 
 <br>
 
