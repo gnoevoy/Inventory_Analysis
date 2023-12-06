@@ -29,5 +29,5 @@ This report page provides a comprehensive overview of the year's performance, al
 </br>
 
 ### Navigation links
-- [Jupyter Notebook File](https://github.com/gnoevoy/Inventory_Management_Analysis/blob/main/inventory_analysis.ipynb)
+- [Jupyter Notebook File](https://github.com/gnoevoy/Inventory_Analysis/blob/main/inventory_analysis.ipynb)
 - [README.md](https://github.com/gnoevoy/Inventory_Management_Analysis/blob/main/README.md)
