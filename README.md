@@ -23,7 +23,6 @@ The goal is to provide clear insights for improving inventory management through
 ## Dataset Overview
 
 #### Stock Table
-| title 1 |
 | Column | Description |
 | :--- | :--- |
 | `SKU-ID` | Item's identity code, also known as stock keeping unit (SKU) or simply ID |
