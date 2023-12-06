@@ -1,4 +1,5 @@
 # Power BI Presentation
+This presentation is designed to contribute to business decisions by providing a comprehensive view of various metrics.
 
 ## Product Performance
 This report page provides a comprehensive view of individual product performance. It shows a key metrics such as: turnover rate, total units sold, financial metrics. Gain valuable insights into how each product is contributing to business success.
