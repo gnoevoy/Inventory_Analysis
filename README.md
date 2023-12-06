@@ -22,52 +22,13 @@ The goal is to provide clear insights for improving inventory management through
 
 ## Dataset Overview
 
-#### Stock Table
-| Column | Description |
-| :--- | :--- |
-| `SKU-ID` | Item's identity code, also known as stock keeping unit (SKU) or simply ID |
-| `Description` | The attributed common name of an item |
-| `2020_units_sold` | Total amount of units sold in 2020 |
-| `2021_start_stock` | Amount of units in stock at the beginning of 2021 |
+![dataset_img](https://github.com/gnoevoy/Inventory_Analysis/assets/43414592/b955cd74-dc8d-4618-8dfd-9b4f2612f9bb)
 
-#### Order Table
-| Column | Description |
-| :--- | :--- |
-| `InvoiceNo` | Unique code referring to a transaction for one or multiple items |
-| `SKU` | Item's identity code |
-| `InvoiceDate` | Date of purchase for a particular item in an order |
-| `Quantity` | Amount of units sold for a particular item in an order |
-| `Country` | Code indicating the customer ID and the country of origin for the customer |
-
-#### Price Table
-| Column | Description |
-| :--- | :--- |
-| `ID` | Item's identity code |
-| `Retail_Price` | Item's value at sale point |
-
-#### Costs Table
-| Column | Description |
-| :--- | :--- |
-| `SKU-ID` | Item's identity code |
-| `Description` | The attributed common name of an item |
-| `2020_units_sold` | Total amount of units sold in 2020 |
-| `2021_start_stock` | Amount of units in stock at the beginning of 2021 |
-
-#### Stock Table
-| Column | Description |
-| :--- | :--- |
-| `SKU` | Item's identity code |
-| `raw_material` | Item's cost attributed to raw materials used in manufacturing process |
-| `factory_labor` | Item's cost attributed to manufacturing human resource |
-| `factory_equipment_rent` |Item's cost allocated to the rent of equipment for manufacturing of goods |
-| `distribution` | Item's cost associated with the delivery of goods to the buyer |
-| `advertisement` | Item's cost of marketing for a particular item |
-
-#### Stock Table
-| Column | Description |
-| :--- | :--- |
-| `ID` | Item's identity code |
-| `category` | Item's class assigned to the item |
+- **Stock Table:** Contains information about items in stock, including SKU IDs, descriptions, and quantities sold in 2020, as well as the starting stock for 2021.
+- **Order Table:** Records details of customer orders, including invoice numbers, item SKUs, dates of purchase, quantities sold, and customer country information.
+- **Price Table:** Lists the retail prices for each item, identified by their unique IDs.
+- **Costs Table:** A detailed table focusing on the cost structure of items, including the cost of raw materials, labor, equipment rent, distribution, and advertisement costs.
+- **Categories Table:** Categorizes each item by its unique ID and assigns it to a specific category, helping in item classification and management.
 
 </br>
 
