@@ -32,7 +32,7 @@ The goal is to provide clear insights for improving inventory management through
 - **Costs Table:** A detailed table focusing on the cost structure of items, including the cost of raw materials, labor, equipment rent, distribution, and advertisement costs.
 - **Categories Table:** Categorizes each item by its unique ID and assigns it to a specific category, helping in item classification and management.
 
-</br>
+<br>
 
 ## Additional Links
 - [Dataset](https://github.com/gnoevoy/Inventory_Analysis/blob/main/Dataset.zip)
