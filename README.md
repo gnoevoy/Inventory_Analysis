@@ -6,7 +6,6 @@ This project focuses on enhancing inventory management and decision-making proce
 The goal is to provide clear insights for improving inventory management through:
 - Improving inventory turnover
 - Identifying financial metrics
-- Forecasting demand
 
 ### As a Data Analyst, I was responsible for:
 1. Collect and process data
