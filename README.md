@@ -7,7 +7,7 @@ The goal is to provide clear insights for improving inventory management through
 - Improving inventory turnover
 - Identifying financial metrics
 
-### As a Data Analyst, I was responsible for:
+### As a Data Analyst, I took the following steps:
 1. Collect and process data
 2. Perform data analysis and answer different questions
 3. Develop visualizations and reports in BI tool
